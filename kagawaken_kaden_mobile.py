@@ -21,9 +21,6 @@ m
 folium.Marker(location=[34.1187562,133.6773401],popup='ヤマダデンキ テックランド観音寺店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.3231442,133.8567285],popup='ヤマダデンキ テックランド坂出店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.3324732,134.0101332],popup='ヤマダデンキ テックランド高松鶴市店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -33,16 +30,7 @@ m
 folium.Marker(location=[34.3113665,134.0600482],popup='ヤマダデンキ テックランドNew高松レインボー通り店　　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.2431093,134.3593774],popup='ヤマダデンキ ヤマダアウトレットかがわ店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.3101145,134.0597797],popup='ヤマダデンキ ヤマダアウトレット館高松店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.2694501,134.1764377],popup='ヤマダデンキ ヤマダアウトレットさぬき長尾店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.1865542,133.7187945],popup='ヤマダデンキ ヤマダアウトレット三豊店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.3200306,134.092099],popup='ヤマダデンキ Tecc LIFE SELECT 高松春日店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
